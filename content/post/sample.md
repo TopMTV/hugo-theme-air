@@ -1,19 +1,21 @@
 +++
-author = "syui"
+author = "Omni-Channel"
 comments = false
-date = "2017-01-01"
+date = "2023-01-02"
 draft = false
 image = ""
 menu = ""
 share = false
-slug = "test"
+slug = "iSEO"
 title= "sample"
-tags = ["blog"]
+tags = ["marketting 4.0"]
 +++
 
-[Hugo](https://gohugo.io/documentation/) is the world's fastest static website engine. It's written in Go (aka Golang) and developed by bep, `spf13` and friends.
+[Marketing 4.0](https://omni-channel.vn/crm/) đang được chúng tôi áp dụng rộng rãi. Hệ thống DATA CENTER triển khai khắp các quốc gia như: Mỹ, Đức, Hồng Kông, Nhật, Singapor, Malaysia, Anh...
 
-> Below you will find some of the most common and helpful pages from our documentation.
+> Hãy gọi cho chúng tôi để được tư vấn và triển khai hệ thống hoàn chỉnh nhất.
+> HOTLINE VN: 093 345 0439 - 0528 166 768 - 0933 092 768
+> HOTLINE US: +1(236) 32 67890 - +1(531) 53 03999
 
-https://gohugo.io/documentation/
+https://iseo.website ; https://www.groupcharming.com
 
